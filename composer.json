@@ -1,5 +1,5 @@
 {
-    "name": "zaloplatform/zalo-php-sdk",
+    "name": "vnsdk/zalo-php",
     "description": "sdk for zalo developers",
     "keywords": ["zalosdk", "composer", "zalo", "sdk"],
     "license": "MIT",
