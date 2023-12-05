@@ -11,7 +11,7 @@ Landing page: <a href="https://developers.zalo.me/">https://developers.zalo.me/<
 The Zalo PHP SDK can be installed with [Composer](https://getcomposer.org/). Run this command:
 
 ```sh
-composer require zaloplatform/zalo-php-sdk
+composer require vnsdk/zalo-php
 ```
 
 ## How To Use
